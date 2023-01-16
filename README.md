@@ -6,7 +6,7 @@ Glorious Piece of Entertainment based on Maxwell the Cat
 Im bored and i wanted to learn python so yeah.
 
 ### Download
-You can Download the Game from the Releases. (Currently only support Linux because i cant make a executable for other OSes)
+You can Download the Game from the [Releases](https://github.com/kaonkaon/maxwell/releases/tag/v1.0-linux). (Currently only support Linux because i cant make a executable for other OSes)
 
 #### How to play?
 just doubleclick the `maxwell` file.
